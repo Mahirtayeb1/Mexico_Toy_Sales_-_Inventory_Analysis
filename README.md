@@ -1,7 +1,7 @@
 ## 📊 Dashboard Previews
 
 ### Seasonality & Trends
-<img src="dashboard/sales_heatmap.png" width="600">
+<img src="Dashboard/seasonality & Trends_01.jpg" width="600">
 
 ### Profitability
 <img src="Dashboard/Profitability_01.jpg" width="600">
