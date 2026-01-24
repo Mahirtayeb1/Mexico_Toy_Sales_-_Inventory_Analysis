@@ -1,5 +1,5 @@
 # ER-Diagram
-<img src="Dashboard/seasonality & Trends_01.jpg" width="600">
+<img src="Database_Schema/ER_diagram.png" width="600">
 
 ## 📊 Dashboard Previews
 
